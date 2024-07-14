@@ -142,7 +142,16 @@ const ToDoGenerator = () => {
     return (
         <div className="container mx-auto mt-10 px-4">
             <div className="bg-white shadow-md rounded-lg p-6">
-                <h1 className="text-2xl font-bold mb-4">To-Do Generator</h1>
+                <p className="py-4">
+                    This todo generator builds reusuable templates for{" "}
+                    <a href="https://culturedcode.com/things/" target="_blank" className="underline">
+                        Things3
+                    </a>{" "}
+                    (task management app for ios and mac). This allows users to generate, manage, and
+                    customise to-do lists. Users can select from pre-defined JSON lists, create new custom
+                    lists, and generate unique links to their to-do lists. The application also supports local
+                    storage to save user-generated lists and custom configurations.
+                </p>
                 <form>
                     {error && <div className="bg-red-100 text-red-700 px-4 py-2 mb-4 rounded">{error}</div>}
                     <div className="mb-4">
