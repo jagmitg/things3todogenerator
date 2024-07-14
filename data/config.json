@@ -1,0 +1,20 @@
+{
+  "availableLists": [
+    { "name": "weekend_trip.json", "category": "holiday" },
+    { "name": "longterm_trip.json", "category": "holiday" },
+    { "name": "interview.json", "category": "work" }
+  ],
+  "options": [
+    {
+      "name": "Include Wife's Items",
+      "file": "wife.json",
+      "category": "holiday"
+    },
+    {
+      "name": "Hot Country Essentials",
+      "file": "hot.json",
+      "category": "holiday"
+    },
+    { "name": "something", "file": "interview.json", "category": "work" }
+  ]
+}

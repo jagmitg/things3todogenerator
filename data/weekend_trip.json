@@ -1,0 +1,51 @@
+[
+    {
+        "heading": "Clothing",
+        "content": [
+            "Underwear",
+            "Socks",
+            "T-shirts",
+            "Dress Shirts",
+            "Casual Shirts",
+            "Jeans",
+            "Shorts",
+            "Blazer",
+            "Leisure Shoes",
+            "Sneakers",
+            "Sandals",
+            "Belt"
+        ]
+    },
+    {
+        "heading": "Bathroom",
+        "content": [
+            "Toothbrush",
+            "Toothpaste",
+            "Deodorant",
+            "Hair Brush",
+            "Facial Cleanser",
+            "Face Lotion",
+            "Sunscreen",
+            "Moisturizer",
+            "Shaving Supplies",
+            "Nail File",
+            "Nail Clippers"
+        ]
+    },
+    {
+        "heading": "Generic",
+        "content": [
+            "Hand Sanitizer",
+            "Pain Relievers",
+            "Travel Pillow",
+            "Eye Mask",
+            "Earplugs",
+            "Disinfecting Wipes",
+            "Laptop/Tablet",
+            "Travel Adapter",
+            "Chargers",
+            "Empty Water Bottle",
+            "Medications"
+        ]
+    }
+]

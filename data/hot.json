@@ -1,0 +1,12 @@
+{
+    "sections": [
+        {
+            "heading": "Hot Country Essentials",
+            "content": ["Sunscreen", "Sunglasses", "Hat"]
+        },
+        {
+            "heading": "👕 Clothing",
+            "content": ["Lightweight clothing", "Swimwear"]
+        }
+    ]
+}
