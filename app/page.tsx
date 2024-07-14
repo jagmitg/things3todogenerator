@@ -1,9 +1,9 @@
-import ToDoGenerator from '../components/ToDoGenerator';
+import ToDoGenerator from "../components/ToDoGenerator";
 
 export default function Home() {
-  return (
-    <div>
-      <ToDoGenerator />
-    </div>
-  );
+    return (
+        <div>
+            <ToDoGenerator />
+        </div>
+    );
 }
